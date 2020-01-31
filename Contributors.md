@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Gary Li] (https://github.com/GaryZLi)
 - Nicholas Donovan (https://github.com/NicholaiThe3rd)
 - Jeff Lu (https://github.com/HiIamJeff)
 - Amin Elhami (https://github.com/Amin747)
